@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LCP-Client"
+    }
+  },
+  "defaultProject": "LCP-Client",
+  "cli": {
+    "analytics": "edd0390a-cdcd-4799-abab-f82db8805586"
+  }
 }
